@@ -10,10 +10,12 @@
     text-align: center;
     margin: 20px 300px 0px 300px;
     font-family: sans-serif;
+    border-radius: 10px;
 }
 
 #container h1{
     font-size: 20px;
+    font-weight: bold;
     padding: 20px;
     text-decoration: underline;
 }
@@ -21,5 +23,16 @@
 .search {
     width: 250px;
     height: 25px;
+    border-radius: 5px;
+    padding-left: 10px;
 }
 
+.add{
+    width: 8.5%;
+    height: 15%;
+    border: none;
+    border-radius: 3px;
+    background-color: lightskyblue;
+    margin-left: 5px;
+    font-weight: bold;
+}
