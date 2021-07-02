@@ -4,7 +4,7 @@ let input = document.getElementById('input');
 
 addbutton.addEventListener('click', function() {
     let paragraph = document.createElement('p');
-    paragraph.classList.add('paragraph.styling');
+    paragraph.classList.add('paragraph-styling');
     paragraph.innerText = input.value;
     todocontainer.appendChild(paragraph);
     input.value = '';
