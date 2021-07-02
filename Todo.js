@@ -9,10 +9,10 @@ addbutton.addEventListener('click', function() {
     todocontainer.appendChild(paragraph);
     input.value = '';
     paragraph.addEventListener('click', function() {
-        paragraph.style.textDecoration = 'line through';
+        paragraph.style.textDecoration = 'line-through';
     })
 
-    paragraph.addEventListener('dbclick', function(){
+    paragraph.addEventListener('dblclick', function(){
         todocontainer.removeChild(paragraph);
     })
 });
