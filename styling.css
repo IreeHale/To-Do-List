@@ -4,5 +4,13 @@ body {
 }
 
 .container{
-    border: 2px solid black;
+    border: 1px solid black;
+    margin: 20px 450px 0px 450px;
+    border-radius: 6px;
+    height: 120px;
+    background-color: red; 
+}
+
+.container h1{
+    text-decoration: underline;
 }
