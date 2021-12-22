@@ -31,8 +31,10 @@ body {
 }
 
 .container2{
-    height: 150px;
+    height: 400px;
     margin: 40px 450px 0px 450px;
     border-radius: 6px;
-    background-color: whitesmoke; 
+    background-color: whitesmoke;
+    padding-top: 15px;
+    font-size: 1.5rem;
 }
