@@ -29,3 +29,10 @@ body {
     color: whitesmoke;
     cursor: pointer;
 }
+
+.container2{
+    height: 150px;
+    margin: 40px 450px 0px 450px;
+    border-radius: 6px;
+    background-color: whitesmoke; 
+}
