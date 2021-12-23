@@ -17,6 +17,12 @@ body {
     text-decoration: underline;
 }
 
+#search{
+    margin-left: 25px;
+    border-radius: 3px;
+    border: 1px solid black;
+}
+
 #add{
     border: none;
     border-radius: 5px;
