@@ -36,7 +36,7 @@ body {
     cursor: pointer;
 }
 
-.container2{
+#container2{
     height: 400px;
     margin: 40px 450px 0px 450px;
     border-radius: 6px;
