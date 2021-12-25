@@ -20,6 +20,3 @@ add.addEventListener("click", function addToContainer(){
         container.removeChild(p);
     })
 });
-
-//create line through functionality for the todo when clicked
-//when you want to delete something you dble click it to remove it
