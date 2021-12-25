@@ -9,7 +9,7 @@ add.addEventListener("click", function addToContainer(){
         alert("add a To-Do please.");
     }else{
         p.innerText = input.value;
-    container.appendChild(p);
+        container.appendChild(p);
     }
 });
 //create line through functionality for the todo when clicked
